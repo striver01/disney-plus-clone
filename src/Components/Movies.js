@@ -18,6 +18,18 @@ function Movies() {
         <Wrap>
           <img src="/images/slider-badging.jpg" />
         </Wrap>
+        <Wrap>
+          <img src="/images/slider-badging.jpg" />
+        </Wrap>
+        <Wrap>
+          <img src="/images/slider-badging.jpg" />
+        </Wrap>
+        <Wrap>
+          <img src="/images/slider-badging.jpg" />
+        </Wrap>
+        <Wrap>
+          <img src="/images/slider-badging.jpg" />
+        </Wrap>
       </Content>
     </Container>
   );
@@ -36,7 +48,6 @@ const Content = styled.div`
 const Wrap = styled.div`
   border-radius: 10px;
   cursor: pointer;
-  height: 100px;
   overflow: hidden;
   border: 3px solid rgba(249, 249, 249, 0.1);
   box-shadow: rgb(0 0 0 / 69%) 0px 26px 30px -10px,
