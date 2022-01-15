@@ -55,12 +55,13 @@ const NavMenu = styled.div`
   display: flex;
   flex: 1;
   margin-left: 25px;
-  a href="https://google.com"
-  {
+  a {
     display: flex;
     align-items: center;
     padding: 0 12px;
     cursor: pointer;
+    color: rgb(249, 249, 249);
+    text-decoration: none;
     img {
       height: 20px;
     }
