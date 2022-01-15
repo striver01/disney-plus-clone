@@ -7,28 +7,28 @@ function Movies() {
       <h1>Recommended For You</h1>
       <Content>
         <Wrap>
-          <img src="/images/slider-badging.jpg" />
+          <img src="/images/slider-badging.jpg" alt="movies" />
         </Wrap>
         <Wrap>
-          <img src="/images/slider-badging.jpg" />
+          <img src="/images/slider-badging.jpg" alt="movies" />
         </Wrap>
         <Wrap>
-          <img src="/images/slider-badging.jpg" />
+          <img src="/images/slider-badging.jpg" alt="movies" />
         </Wrap>
         <Wrap>
-          <img src="/images/slider-badging.jpg" />
+          <img src="/images/slider-badging.jpg" alt="movies" />
         </Wrap>
         <Wrap>
-          <img src="/images/slider-badging.jpg" />
+          <img src="/images/slider-badging.jpg" alt="movies" />
         </Wrap>
         <Wrap>
-          <img src="/images/slider-badging.jpg" />
+          <img src="/images/slider-badging.jpg" alt="movies" />
         </Wrap>
         <Wrap>
-          <img src="/images/slider-badging.jpg" />
+          <img src="/images/slider-badging.jpg" alt="movies" />
         </Wrap>
         <Wrap>
-          <img src="/images/slider-badging.jpg" />
+          <img src="/images/slider-badging.jpg" alt="movies" />
         </Wrap>
       </Content>
     </Container>

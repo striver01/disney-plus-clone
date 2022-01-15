@@ -5,7 +5,7 @@ function Login() {
   return (
     <Container>
       <Background>
-        <img src="/images/login-background.jpg" />
+        <img src="/images/login-background.jpg" alt="backgroud" />
       </Background>
       <ContentBox>
         <Logo src="/images/cta-logo-one.svg" />
@@ -16,7 +16,7 @@ function Login() {
           hoqiehro;iehwf;sa oih sbdficbn hfo ;en jjaijsfkj iowefoi hwfio oiihoif
           hkansfdoohweioa knsdoi eoihfw
         </Description>
-        <LoginLogo src="/images/cta-logo-two.png" />
+        <LoginLogo src="/images/cta-logo-two.png" alt="login" />
       </ContentBox>
     </Container>
   );

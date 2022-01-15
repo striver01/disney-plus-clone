@@ -4,30 +4,30 @@ import styled from "styled-components";
 function Header() {
   return (
     <Nav>
-      <Logo src="/images/logo.svg" />
+      <Logo src="/images/logo.svg" alt="headerimg" />
       <NavMenu>
-        <a>
-          <img src="/images/home-icon.svg" />
+        <a href="https://google.com">
+          <img src="/images/home-icon.svg" alt="headerimg" />
           <span>HOME</span>
         </a>
-        <a>
-          <img src="/images/search-icon.svg" />
+        <a href="https://google.com">
+          <img src="/images/search-icon.svg" alt="headerimg" />
           <span>SEARCH</span>
         </a>
-        <a>
-          <img src="/images/watchlist-icon.svg" />
+        <a href="https://google.com">
+          <img src="/images/watchlist-icon.svg" alt="headerimg" />
           <span>WATCHLIST</span>
         </a>
-        <a>
-          <img src="/images/original-icon.svg" />
+        <a href="https://google.com">
+          <img src="/images/original-icon.svg" alt="headerimg" />
           <span>Originals</span>
         </a>
-        <a>
-          <img src="/images/movie-icon.svg" />
+        <a href="https://google.com">
+          <img src="/images/movie-icon.svg" alt="headerimg" />
           <span>MOVIES</span>
         </a>
-        <a>
-          <img src="/images/series-icon.svg" />
+        <a href="https://google.com">
+          <img src="/images/series-icon.svg" alt="headerimg" />
           <span>SERIES</span>
         </a>
       </NavMenu>
@@ -55,7 +55,8 @@ const NavMenu = styled.div`
   display: flex;
   flex: 1;
   margin-left: 25px;
-  a {
+  a href="https://google.com"
+  {
     display: flex;
     align-items: center;
     padding: 0 12px;

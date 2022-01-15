@@ -4,24 +4,24 @@ import styled from "styled-components";
 function Detail() {
   return (
     <Container>
-      <Background src="/images/detail-bg.jpg" />
+      <Background src="/images/detail-bg.jpg" alt="bg" />
       <ImgTitle>
-        <img src="/images/bau_logo.png" />
+        <img src="/images/bau_logo.png" alt="imgtitle" />
       </ImgTitle>
       <Controls>
         <PlayButton>
-          <img src="/images/play-icon-black.png" />
+          <img src="/images/play-icon-black.png" alt="imgtitle" />
           <span>PLAY</span>
         </PlayButton>
         <Trailerbutton>
-          <img src="/images/play-icon-white.png" />
+          <img src="/images/play-icon-white.png" alt="imgtitle" />
           <span>TRAILER</span>
         </Trailerbutton>
         <AddButton>
           <span>+</span>
         </AddButton>
         <GroupButton>
-          <img src="/images/group-icon.png" />
+          <img src="/images/group-icon.png" alt="imgtitle" />
         </GroupButton>
       </Controls>
       <SubTitle>2018 * 7m * Family, Fantasy, Kids, Animation</SubTitle>
